@@ -1,0 +1,22 @@
+.header{
+    background-color:aqua;
+    padding: 20px;
+    font-family: 'Tilt Prism', cursive;
+    color: rgb(46, 104, 154);
+    font-weight: bold;
+    font-size: 30px;
+}
+.main{
+    background-color: rgba(21, 247, 247, 0.514);
+}
+.footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: aqua;
+    width: 100%;
+    padding: 15px;
+    
+}
+body{
+    background-color: rgba(21, 247, 247, 0.514); ;
+}
